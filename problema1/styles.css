@@ -1,23 +1,24 @@
 body {
-    font-family: Arial, sans-serif;
-    background-color: white;
+    font-family: Arial, sans-serif;  /*Establecemos el tipo de letra*/
+    background-color: white;    
     margin: 0;
     padding: 20px;
 }
 
 .uno {
-    border: 3px solid black;
-    background-color: rgb(84, 84, 236);
+    border: 3px solid black;  /*EStablecemos el borde su anchura, continuo y el color*/
+    background-color: rgb(84, 84, 236); 
     padding: 10px;
     margin-bottom: 10px;
 }
 
 .mensaje {
+
     background-color: #f2f2f2;
-    border: 2px solid rgb(179, 255, 0);
+    border: 2px solid rgb(179, 255, 0);  
     padding: 15px;
-    font-weight: bold;
-    font-size: 1.5em;
+    font-weight: bold;   /*SE determina el groso de la fuente*/
+    font-size: 1.5em;  /*SE determina el tamaño de la fuente*/
     margin: 0;
 }
 
@@ -29,5 +30,5 @@ body {
 
 .comentario {
     color: white;
-    border-bottom: 2px solid green;
+    border-bottom: 2px solid green;   /*Solo se establece el borde en la parte inferior*/
 }
