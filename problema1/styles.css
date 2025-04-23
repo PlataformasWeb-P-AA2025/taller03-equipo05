@@ -1,0 +1,33 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: white;
+    margin: 0;
+    padding: 20px;
+}
+
+.uno {
+    border: 3px solid black;
+    background-color: rgb(84, 84, 236);
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+.mensaje {
+    background-color: #f2f2f2;
+    border: 2px solid rgb(179, 255, 0);
+    padding: 15px;
+    font-weight: bold;
+    font-size: 1.5em;
+    margin: 0;
+}
+
+.dos {
+    background-color: peru;
+    border: 1px solid green;
+}
+
+
+.comentario {
+    color: white;
+    border-bottom: 2px solid green;
+}
